@@ -1,4 +1,4 @@
-# CG_install_check
+# First OpenGL Program
 
 ## terminal
 1. Install package
@@ -79,3 +79,9 @@ ShaderInfo shaders[] = {
 </pre>
 
 Reference: https://www.notion.so/MacOS-OpenGL-Setting-Guide-4952565e5db1464b85047ee29b928814
+
+
+## Result
+
+![image](https://user-images.githubusercontent.com/28642467/109499871-c87b9900-7ad8-11eb-8978-e1a120e2624a.JPG)
+<p align="center">Figure 1. Program Result</p>
