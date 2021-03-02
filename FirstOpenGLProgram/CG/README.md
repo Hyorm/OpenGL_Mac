@@ -30,18 +30,18 @@ brew install glm
 
 ### FILE
 - fix LoadShaders.h
-<pre>
+```
 #include <OpenGL/gl.h>
-</pre>
+```
 - fix main.cpp
-<pre> 
+```
 //order is very important
 #include <GL/glew.h>
 #include <GLUT/GLUT.h>
 #include <OpenGL/gl.h>
 #include <LoadShaders.h>
-</pre>
-<pre>
+```
+```
 // ... in main function ...
 glutInit(&argc, argv);
 glutInitDisplayMode(GLUT_RGBA|GLUT_DOUBLE|
@@ -58,25 +58,25 @@ if (err != GLEW_OK)
     exit(-1);
 }
 // ...
-</pre>
-<pre>
+```
+```
 // ... in display function ...
 glFlush();
 glutSwapBuffers(); // Add this line.
 // ...
-</pre>
+```
 - fix vertex shader and fragment shader
-<pre>
+```
 #version 410 // please set version to 410. 
 // This is because macOS graphics driver only supports up to 4.1 version.
-</pre>
-<pre>
+```
+```
 ShaderInfo shaders[] = {
         {GL_VERTEX_SHADER, "{absolute path}.vert"},
         {GL_FRAGMENT_SHADER, "{absolute path}.frag"},
         {GL_NONE, NULL}
 };
-</pre>
+```
 
 Reference: https://www.notion.so/MacOS-OpenGL-Setting-Guide-4952565e5db1464b85047ee29b928814
 
