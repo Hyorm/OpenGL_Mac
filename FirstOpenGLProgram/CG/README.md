@@ -36,6 +36,7 @@ brew install glm
 - fix main.cpp
 ```
 //order is very important
+#define GL_SILENCE_DEPRECATION
 #include <GL/glew.h>
 #include <GLUT/GLUT.h>
 #include <OpenGL/gl.h>
