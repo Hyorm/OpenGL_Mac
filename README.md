@@ -9,7 +9,7 @@ A Study on Computer Graphics and OpenGL programming
 ## Summary
 
 ### 1: First OpenGL Program
-- [Fist OpenGL Program](https://github.com/Hyorm/OpenGL_Mac/tree/main/FirstOpenGLProgram/CG)
+- [First OpenGL Program](https://github.com/Hyorm/OpenGL_Mac/tree/main/FirstOpenGLProgram/CG)
 ### 2: Alternating among three VAOs
 - [Alternating among three VAOs](https://github.com/Hyorm/OpenGL_Mac/tree/main/AlternatingAmongThreeVAOs/AlternatingAmongThreeVAOs)
 ### 3: A Simple Trasformation with GLM
