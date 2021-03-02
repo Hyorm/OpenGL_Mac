@@ -83,5 +83,5 @@ Reference: https://www.notion.so/MacOS-OpenGL-Setting-Guide-4952565e5db1464b8504
 
 ## Result
 
-![image](https://user-images.githubusercontent.com/28642467/109499871-c87b9900-7ad8-11eb-8978-e1a120e2624a.JPG)
+<p align="center"><img width="514" alt="image" src="https://user-images.githubusercontent.com/28642467/109499871-c87b9900-7ad8-11eb-8978-e1a120e2624a.JPG")</p>
 <p align="center">Figure 1. Program Result</p>
