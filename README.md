@@ -17,6 +17,7 @@ A Study on Computer Graphics and OpenGL programming
 ### 4: Rotating a Cube
 - [Rotating a Cube](https://github.com/Hyorm/OpenGL_Mac/tree/main/RotatingACube)
 ### 5: Simple OBJ Loader
+- [Simple OBJ Loader](https://github.com/Hyorm/OpenGL_Mac/tree/main/SimpleOBJLoader)
 ### 6: Solar System
 ### 7: Deriving the Transformaiton Matrices
 ### 8: Drawing Primitives
