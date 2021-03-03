@@ -19,6 +19,7 @@ A Study on Computer Graphics and OpenGL programming<br>
 ### 5: Simple OBJ Loader
 - [Simple OBJ Loader](https://github.com/Hyorm/OpenGL_Mac/tree/main/SimpleOBJLoader)
 ### 6: Solar System
+- [Solar System](https://github.com/Hyorm/OpenGL_Mac/tree/main/SolarSystem)
 ### 7: Deriving the Transformaiton Matrices
 ### 8: Drawing Primitives
 ### 9: Navigating into the 3D World
