@@ -2,7 +2,7 @@
 Mac OS(Big Sur), OpenGL(glew, glut, glfw, glm)
 (It's still updating!)
 
-(Private)A Study on Computer Graphics and OpenGL programming<br>
+A Study on Computer Graphics and OpenGL programming<br>
 (Past Version: [Window](https://github.com/Hyorm/OpenGL))<br>
 (Current Version: [Mac OS](https://github.com/Hyorm/OpenGL_Mac))
 
